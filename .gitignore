@@ -1,0 +1,12 @@
+
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+venv/
+env/
+.venv/
+.streamlit/
+*.log
+data/*.csv
+
